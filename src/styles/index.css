@@ -1,0 +1,58 @@
+#supportTraffic {
+  background-color: black;
+  width: 10px;
+  height: 70px;
+  margin: 0px auto;
+}
+
+#container {
+  background-color: black;
+  width: 70px;
+  height: 200px;
+  margin: 0px auto;
+  padding: 7px;
+  border-radius: 10px;
+}
+
+.redLight {
+  background-color: #b40707;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 4px;
+  margin: 7px;
+  cursor: pointer;
+}
+
+.yellowLight {
+  background-color: #fcf837;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 4px;
+  margin: 7px;
+  cursor: pointer;
+}
+
+.greenLight {
+  background-color: #0fc928;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 50%;
+  padding: 4px;
+  margin: 7px;
+  cursor: pointer;
+}
+
+.selectRed {
+  box-shadow: #fdc2c2 0px 0px 50px 20px;
+}
+.selectYellow {
+  box-shadow: #ebfdc2 0px 0px 50px 20px;
+}
+.selectGreen {
+  box-shadow: #c2fdcf 0px 0px 50px 20px;
+}
